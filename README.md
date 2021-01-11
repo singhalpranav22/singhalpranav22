@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhalpranav22&show_icons=true&theme=dracula&locale=en" alt="singhalpranav22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhalpranav22&theme=highcontrast" alt="singhalpranav22" /></p>
+<br>
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/pranavsinghal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pranavsinghal" /></a></p>
