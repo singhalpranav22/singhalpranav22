@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SemBreaker](https://github.com/GeekHaven/Student-Resource-App)
 
-- 🌱 I’m currently learning **MERN Stack & Django Framework.**
+- 🌱 I’m currently learning **MERN Stack & Django Framework and mastering Competitive Coding** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/singhalpranav22](https://github.com/singhalpranav22)
 
