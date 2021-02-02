@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **Flutter, Competitive Coding**
 
-- 📫 How to reach me **singhalpranav22@gmail.com**
+- 📫 How to reach me **singhalpranav22@gmail.com** [pranavsinghal.me] (pranavsinghal.me)
+
+- Visit My Portfolio Website at : [pranavsinghal.me](pranavsinghal.me)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J0Hjlg7tP6puS6Ooz564TnLEp2PZ5e46/view?usp=sharing](https://drive.google.com/file/d/1J0Hjlg7tP6puS6Ooz564TnLEp2PZ5e46/view?usp=sharing)
 
