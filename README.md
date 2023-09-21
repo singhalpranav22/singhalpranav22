@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/singhalpranav22](https://github.com/singhalpranav22)
 
-- 💬 Ask me about **App, web development, Competitive Coding or chit-chat about astronomy/science**
+- 💬 Ask me about **App/web full-stack development, Competitive Coding or have a chit-chat with me about astronomy/science**
 
 - 📫 How to reach me **singhalpranav22@gmail.com**
 
